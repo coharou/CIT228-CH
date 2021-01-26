@@ -1,0 +1,10 @@
+import random
+val = random.randrange(10, 100)
+numList = list(range(8, val))
+print()
+print(numList)
+print(f'Maximum: \t{max(numList)}')
+print(f'Minimum: \t{min(numList)}')
+print(f'Sum: \t\t{sum(numList)}')
+print(f'Average: \t{(sum(numList) / len(numList))}')
+print()
