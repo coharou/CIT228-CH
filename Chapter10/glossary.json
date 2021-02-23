@@ -1,0 +1,12 @@
+{
+    "constants": "variables with a single, unchanging value",
+    "dictionary": "an object that stores key-value pairs",
+    "elif": "acts as a continuation between if and else in if-else statements",
+    "float": "values that contain numbers separated by decimals",
+    "integer": "whole number data type",
+    "list": "an object that stores multiple values, in which the values are assigned an index number for later reference",
+    "pop": "removing an item from the end of an array",
+    "slice": "a division of an array that separates it into two parts, ideally for copying",
+    "string": "text based data type",
+    "tuple": "stores multiple values in one object"
+}

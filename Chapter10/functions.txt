@@ -1,0 +1,1 @@
+A function call tells Python to execute the code in the function. To call a function, you write the name of the function, followed by any necessary information in parenthesis.
